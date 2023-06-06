@@ -16,6 +16,14 @@ If you don't have an account. Use the below command
     ```
 2. Run each cell from the model.ipynb. Make sure to check the path to the dataset..
 
+3. Click Below to download the dataset
+ <a href="https://www.kaggle.com/code/josephassaker/intro-to-deep-learning-sentiment-classification/input">Click Here to Download the Dataset</a>
+
+4. Use the Below command to download the dataset.
+```
+                !wget http://nlp.stanford.edu/data/glove.6B.zip
+                !unzip glove.6B.zip
+```
 
 ## To know more about Pureml.
 Refer to the below link for docs.
@@ -23,3 +31,4 @@ Refer to the below link for docs.
 
 Refer to link for our website.
 <a href="https://pureml.com/">PUREML</a>
+
